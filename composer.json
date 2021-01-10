@@ -7,8 +7,15 @@
         {
             "name": "Meng Tian",
             "email": "tianmeng94@hotmail.com"
+        },
+        {
+            "name": "Patrique Ouimet",
+            "email": "patrique.ouimet@gmail.com"
         }
     ],
+    "require": {
+        "php": "^7.3 || ^8.0"
+    },
     "autoload": {
         "psr-4": {"Meng\\AsyncSoap\\": "src/"}
     },
